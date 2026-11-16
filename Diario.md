@@ -55,8 +55,21 @@
 
 ## Week 8 — 3 Nov 2026
 
+**Done**
+- Presented Sprint 2.
+- Started the prototype of the game.
+
 
 
 ---
 
 
+## Week 9 — 10 Nov 2026
+
+**Done**
+
+- Further explored the literature more focused on comparing VR-games to non VR-games
+- Revising the introduction and State-of-Art of the thesis proposal with notes given by the orientators.
+- Continue iterating on the game
+
+## Week 10 — 17 Nov 2026
