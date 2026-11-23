@@ -73,3 +73,14 @@
 - Continue iterating on the game
 
 ## Week 10 — 17 Nov 2026
+
+**Done**
+
+- Started writing the methodology chapter of the proposal
+- Created an initial scene of the game that will be used as the testbed
+- Created the PowerPoint presentation for Sprint 3
+
+## Week 11 — 24 Nov 2026
+
+
+**Done**
